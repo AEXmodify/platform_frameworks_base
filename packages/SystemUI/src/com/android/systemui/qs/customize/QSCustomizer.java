@@ -103,7 +103,7 @@ public class QSCustomizer extends LinearLayout implements OnMenuItemClickListene
         mDefaultColumns = Math.max(1,
                     mContext.getResources().getInteger(R.integer.quick_settings_num_columns));
 
-        if (!ThemeManager.isOverlayEnabled()) {
+        if (!ThemeManager.shouldOverlayEnabled(context)) {
             final TypedArray ta = context.obtainStyledAttributes(new int[]{
                     android.R.attr.textColorPrimary});
             mToolbar.setTitleTextColor(ta.getColor(0, 0));
