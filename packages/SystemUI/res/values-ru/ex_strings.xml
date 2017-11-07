@@ -245,7 +245,7 @@
   <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
   <string name="dlg_ok">ОК</string>
   <string name="dlg_cancel">Отмена</string>
-  <string name="kill">Закрыть приложение</string>
+  <string name="kill">Закрыть</string>
   <!-- Pie controls -->
   <string name="pie_date_format">EEEE, dd MMMM yyyy</string>
   <string name="pie_hour_format_12">hh:mm</string>
