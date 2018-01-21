@@ -25,13 +25,13 @@
   <!-- Button to reboot the phone into bootloader in restart menu -->
   <string name="reboot_bootloader">Загрузчик</string>
   <!-- Button to soft reboot the device in restart menu -->
-  <string name="reboot_soft">Перезапуск интерфейса</string>
+  <string name="reboot_soft">Быстрая перезагрузка</string>
   <!-- Reboot Confirmation Dialog. -->
   <string name="reboot_confirm" product="tablet">Ваш планшет будет перезагружен.</string>
   <string name="reboot_confirm" product="default">Ваш телефон будет перезагружен.</string>
   <!-- Reboot Progress Dialog. This is shown if the user chooses to restart the phone. -->
   <string name="reboot_progress">Перезагрузка\u2026</string>
-  <string name="reboot_systemui">Перезапустить системный интерфейс</string>
+  <string name="reboot_systemui">Перезагрузить интерфейс</string>
   <!-- Global Actions -->
   <string name="global_action_current_user">Текущий</string>
   <string name="global_action_screenshot">Скриншот</string>
